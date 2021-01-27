@@ -1,6 +1,5 @@
 """
 Routine to update layer storage in ArcGIS OnLine
-OBS: The path must be updated
 """
 # Libs
 from arcgis.gis import GIS
@@ -14,7 +13,7 @@ from pathlib import Path
 
 # User Account
 USER = "TestRodriguesDF"
-PASSWORD = "*hyr-Ws.*C&A8PU"  # enter with TestRodriguesDF account's password
+PASSWORD = "*******"  # enter with TestRodriguesDF account's password
 
 # Layer ID
 ID = '1382a35430c34464bb495295440062eb'
