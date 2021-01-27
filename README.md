@@ -8,6 +8,12 @@ Script to update an ArcGIS OnLine layer with new entries from a csv file.
 1. Clone this repository to a local machine;
 1. Open the load_updated_csv.py file and set the password (sent by email);
 1. Run ```pipenv install```;
-1. Run ```pipenv run python load_updated_csv.py```;
+1. Run ```pipenv run python load_updated_csv.py```.
 
-Congrats!!! The layer is updated...
+###Congrats!!! The layer is updated...
+
+
+
+#####OBS: 
+The information of bancos_1.csv file was already published on ArcGIS OnLine.
+The file bancos_2.csv contains new information to be updated.
