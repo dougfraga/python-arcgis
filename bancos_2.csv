@@ -1,0 +1,5 @@
+id,banco_id,praca,manutencao,latitude,longitude
+3,AP3,AfonsoPena,nao,-22.917948,-43.217664
+4,AP4,AfonsoPena,sim,-22.917633,-43.218046
+8,SP3,SaensPena,sim,-22.924290,-43.232182
+9,SP4,SaensPena,nao,-22.924361,-43.232493

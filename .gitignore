@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.idea
+.venv
+etc/
+
+# Aux
+etc/
+backup/
+updated_csv_content/
+
+# Jupyter
+.ipynb_checkpoints
+
+
