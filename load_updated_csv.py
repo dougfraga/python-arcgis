@@ -13,10 +13,10 @@ from pathlib import Path
 
 # User Account
 USER = "TestRodriguesDF"
-PASSWORD = "*******"  # enter with TestRodriguesDF account's password
+PASSWORD = "*hyr-Ws.*C&A8PU"  # enter with TestRodriguesDF account's password
 
 # Layer ID
-ID = '1382a35430c34464bb495295440062eb'
+ID = '91058a92f70b4ff49aba6ea9354d9f1a'
 
 # Path to base dir
 BASE_DIR = Path(__file__).resolve().parent
